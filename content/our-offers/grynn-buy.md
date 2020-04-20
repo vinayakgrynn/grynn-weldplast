@@ -1,0 +1,3 @@
+---
+title: "Grynn Buy"
+---
