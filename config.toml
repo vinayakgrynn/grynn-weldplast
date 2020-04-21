@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://dreamy-ritchie-9ff3e1.netlify.app/"
 languageCode = "en-us"
 title = "Grynn Website"
 theme = "vinayak"
