@@ -1,0 +1,12 @@
+{
+  "URL" : "file:/Users/vinayakpatel/Downloads/www.weldplast.cz/nuzky-zkusebnich-vzorku",
+  "product_name" : "Nůžky zkušebních vzorků20 mm x 150 mm",
+  "product_id" : "Obj. číslo:145.813",
+  "product_desc" : [ "" ],
+  "title" : "Nůžky zkušebních vzorků | Weldplast",
+  "product_specs" : [ ],
+  "product_downloads" : [ "NŮŽKY ZKUŠEBNÍCH VZORKŮ - manuál\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tstáhnout\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t" ],
+  "href" : [ "https://www.weldplast.cz/files/nuzky-zkusebnich-vzorku-manual-cz-sk.pdf", "https://www.weldplast.cz/files/nuzky-zkusebnich-vzorku-manual-cz-sk.pdf" ],
+  "p_desc_2" : [ "" ],
+  "head" : [ "Nůžky zkušebních vzorků | Weldplast/**//**//**//**//**/\nvar CMS_ga_code = 'UA-20655970-1';\n/**//**/\nvar CMS_ga_site = '.weldplast.cz';\n/**//**//**//**/\nvar CMS_URL = \"https://www.weldplast.cz/\";\n/**//**/\nvar CMS_URL_FULL = \"https://www.weldplast.cz/\";\n/**//**/\nvar CMS_IMG_URL = \"https://www.weldplast.cz/assets/cs/images/\";\n/**//**/\nvar CMS_CURRENCY = \"czk\";\n/**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**/\ndocument.documentElement.className = document.documentElement.className.replace('no-js', 'js');\n/**/" ]
+}

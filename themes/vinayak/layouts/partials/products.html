@@ -1,0 +1,90 @@
+
+<section class="hero is-info">
+  <div class="hero-body">
+<ol>
+{{ range $.Site.Data.weldplast }}
+
+<li>
+<table class="table is-bordered is-striped is-hoverable is-fullwidth">
+
+<tr>
+<td>
+Product Name: 
+</td>
+<td>
+{{ .product_name }}
+</td>
+</tr>
+
+<tr>
+<td>
+Product ID: 
+</td>
+<td>
+{{ .product_id }}
+</td>
+</tr>
+
+<tr>
+<td>
+URL: 
+</td>
+<td>
+{{ .URL }}
+</td>
+</tr>
+
+ 
+<tr>
+<td>
+Title: 
+</td>
+<td>
+{{ .title }}
+</td>
+</tr>
+ 
+
+
+<tr>
+<td>
+Product Specs: 
+</td>
+<td>
+{{ .product_specs }}
+</td>
+</tr>
+ 
+
+<tr>
+<td>
+Product Downloads: 
+</td>
+<td>
+{{ .product_downloads }}
+</td>
+</tr>
+ 
+
+<tr>
+<td>
+href: 
+</td>
+<td>
+{{ .href }}
+</td>
+</tr>
+
+
+</table>
+<hr>
+
+</li>
+
+{{ end }}
+</ol>
+
+ </div>
+</section>
+
+

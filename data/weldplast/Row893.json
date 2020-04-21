@@ -1,0 +1,12 @@
+{
+  "URL" : "file:/Users/vinayakpatel/Downloads/www.weldplast.cz/ghibli-aw",
+  "product_name" : "GHIBLI AW230 V / 2300 W",
+  "product_id" : "Obj. číslo:148.061",
+  "product_desc" : [ "GHIBLI AW je robustní ergonomický ruční přístroj používaný na smršťovánípři výrobě kabelů, nahřívání a tváření v automobilovém průmyslu, svařování přeplátovacích svarů plachet nákladních aut. Skvěle sedí v ruce.Digitální regulace teplotyPětistupňová rebulace objemu vzduchuOvládací jednotka \"e-Drive\"Snadno vymutelné a vyčistitelné filtryPraktický stojan součástí dodávky" ],
+  "title" : "GHIBLI AW | Weldplast",
+  "product_specs" : [ "Značka konformity", "Třída ochrany II", "NapětíV~230", "PříkonW2300", "FrekvenceHz50 / 60", "Průtok vzduchul/min140 - 270", "Rozměry (D x Š x V)mm280 x 220 x 90", "Hmotnostkg1,18" ],
+  "product_downloads" : [ "GHIBLI AW - produktový list\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tstáhnout\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t", "GHIBLI AW - manuál CZ_SK\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tstáhnout\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t" ],
+  "href" : [ "https://www.weldplast.cz/files/ghibli-aw-produktovy-list.pdf", "https://www.weldplast.cz/files/ghibli-aw-produktovy-list.pdf", "https://www.weldplast.cz/files/ghibli-aw-cz-skcompressed.pdf", "https://www.weldplast.cz/files/ghibli-aw-cz-skcompressed.pdf" ],
+  "p_desc_2" : [ "GHIBLI AW je robustní ergonomický ruční přístroj používaný na smršťovánípři výrobě kabelů, nahřívání a tváření v automobilovém průmyslu, svařování přeplátovacích svarů plachet nákladních aut. Skvěle sedí v ruce.Digitální regulace teplotyPětistupňová rebulace objemu vzduchuOvládací jednotka \"e-Drive\"Snadno vymutelné a vyčistitelné filtryPraktický stojan součástí dodávky" ],
+  "head" : [ "GHIBLI AW | Weldplast/**//**//**//**//**/\nvar CMS_ga_code = 'UA-20655970-1';\n/**//**/\nvar CMS_ga_site = '.weldplast.cz';\n/**//**//**//**/\nvar CMS_URL = \"https://www.weldplast.cz/\";\n/**//**/\nvar CMS_URL_FULL = \"https://www.weldplast.cz/\";\n/**//**/\nvar CMS_IMG_URL = \"https://www.weldplast.cz/assets/cs/images/\";\n/**//**/\nvar CMS_CURRENCY = \"czk\";\n/**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**/\ndocument.documentElement.className = document.documentElement.className.replace('no-js', 'js');\n/**/" ]
+}

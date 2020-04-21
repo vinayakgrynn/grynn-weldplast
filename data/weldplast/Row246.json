@@ -1,0 +1,12 @@
+{
+  "URL" : "file:/Users/vinayakpatel/Downloads/www.weldplast.cz/pumpa-vakuova-230v",
+  "product_name" : "Pumpa vákuová230 V, vč. kufru, 5 m hadice, množství vzduchu 3,5/4,2 m3/h",
+  "product_id" : "Obj. číslo:153.024",
+  "product_desc" : [ "Vakuová pumpa na testování těsnosti svarů pomocí změny podtlaku.Pružná a silná hadicePřepravní boxKompletní testovací zařízení se skládá ze zvonu (hranatého nebo kulatého) a vývěvy." ],
+  "title" : "Pumpa vákuova 230V | Weldplast",
+  "product_specs" : [ ],
+  "product_downloads" : [ "ZVON ZKUŠEBNÍ - produktový list\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tstáhnout\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t" ],
+  "href" : [ "https://www.weldplast.cz/files/zvon-s-vyvevou-produktovy-list-eng-1.pdf", "https://www.weldplast.cz/files/zvon-s-vyvevou-produktovy-list-eng-1.pdf" ],
+  "p_desc_2" : [ "Vakuová pumpa na testování těsnosti svarů pomocí změny podtlaku.Pružná a silná hadicePřepravní boxKompletní testovací zařízení se skládá ze zvonu (hranatého nebo kulatého) a vývěvy." ],
+  "head" : [ "Pumpa vákuova 230V | Weldplast/**//**//**//**//**/\nvar CMS_ga_code = 'UA-20655970-1';\n/**//**/\nvar CMS_ga_site = '.weldplast.cz';\n/**//**//**//**/\nvar CMS_URL = \"https://www.weldplast.cz/\";\n/**//**/\nvar CMS_URL_FULL = \"https://www.weldplast.cz/\";\n/**//**/\nvar CMS_IMG_URL = \"https://www.weldplast.cz/assets/cs/images/\";\n/**//**/\nvar CMS_CURRENCY = \"czk\";\n/**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**/\ndocument.documentElement.className = document.documentElement.className.replace('no-js', 'js');\n/**/" ]
+}
