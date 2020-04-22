@@ -1,0 +1,12 @@
+---
+Link: "file:/Users/vinayakpatel/Downloads/www.weldplast.cz/sk/uniroof-st-40mm"
+product_name: "UNIROOF ST 40 mm230 V / 3500 W, regulácia potenciometrom"
+product_id: "Obj. číslo:153.600"
+title: "UNIROOF ST 40mm | Weldplast"
+product_desc: "Nový UNIROOF ST je flexibilný zvárací automat vhodný ako na ploché strechy, tak na šikmé strechy až do 30 ° sklonu. Úzky dizajn a patentovaná pohyblivá náprava umožňuje zváranie veľmi blízko stien (až 10 cm), na atikách alebo v zúžených priestoroch. Špičkový výkon zaisťujú technické parametre 3500 W, 230 V a 15 A, ktoré sú umocnené patentovaným systémom umiestnenie hnacieho motora priamo do prítlačného kola. Tým UNIROOF ST dosahuje vyšší konštantného prítlaku a zváracie rýchlosti až 10 m / min.Technológie horúceho vzduchu s otvoreným okruhomRegulácia jednoduchším systémom pomocou potenciometraVyužitie pre materiály s ľahko nastaviteľnými zváracími parametrami (napr. PVC)"
+product_specs: "Značka konformity, Trieda ochrany I, NapätieV~230, PríkonW3450, FrekvenciaHz50 / 60, Max. teplota°C620, Rýchlosťm/min1 - 10, Rozsah prietoku vzduchu%45 - 100, Rozmerymm475 x 244 x 260, Hmotnosťkg17,5"
+product_downloads: "SVAŘOVACÍ AUTOMATY - porovnání, výhody																								stiahnuť																								, KATALOG PLOCHÉ STŘECHY																								stiahnuť																								, UNIROOF - produktový list																								stiahnuť																								, UNIROOF AT/ST - manuál																								stiahnuť																								"
+href: "https://www.weldplast.cz/files/svarovaci-automaty-vyhody.pdf, https://www.weldplast.cz/files/svarovaci-automaty-vyhody.pdf, https://www.weldplast.cz/files/katalog-ploche-strechy-2018-05-el.pdf, https://www.weldplast.cz/files/katalog-ploche-strechy-2018-05-el.pdf, https://www.weldplast.cz/files/produktovy-list-uniroof-at-st-web.pdf, https://www.weldplast.cz/files/produktovy-list-uniroof-at-st-web.pdf, https://www.weldplast.cz/files/uniroof-at-st-manual-cz.pdf, https://www.weldplast.cz/files/uniroof-at-st-manual-cz.pdf"
+accessories: "Predlžovací kábel 15 mPUR, 3 x 2.5 mm2, 1 x 230 V EUPredlžovací kábel 15 mPUR, 5 x 2.5 mm2, 1 x 400 VSet pre bitumeny80 mm, UNIROOF AT/ST, UNIROOF AT 40 mm230V / 3500 W, včetně boxuBITUMAT B275 mm, 400 V / 50 Hz / 6700 W, 16A-5PBITUMAT B2100 mm, 230 V / 50 Hz / 6700 W, 32A-5P"
+similar_products: "UNIROOF AT 40 mm230V / 3500 W, včetně boxuBITUMAT B275 mm, 400 V / 50 Hz / 6700 W, 16A-5PBITUMAT B2100 mm, 230 V / 50 Hz / 6700 W, 32A-5P"
+---

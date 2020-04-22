@@ -1,0 +1,12 @@
+---
+Link: "file:/Users/vinayakpatel/Downloads/www.weldplast.cz/sk/prodluzovaci-kabel-15-m"
+product_name: "Predlžovací kábel 15 mPUR, 5 x 2.5 mm2, 1 x 400 V"
+product_id: "Obj. číslo:160.015"
+title: "Prodlužovací kabel 15 m | Weldplast"
+product_desc: "Nové predlžovacie káble spoločne s navijakom vám ešte viac uľahčí zváranie.Špeciálny zapojenie s oddelenou fázou L3Plne zachovaný výkon prístrojaKáble v PUR prevedeníVhodné nma staveniskaOchrana pred preťažením"
+product_specs: ""
+product_downloads: ""
+href: ""
+accessories: "Predlžovací kábel 15 mPUR, 3 x 2.5 mm2, 1 x 230 V EU"
+similar_products: ""
+---
