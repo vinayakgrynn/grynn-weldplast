@@ -1,0 +1,46 @@
+
+<section class="hero is-info">
+  <div class="hero-body">
+
+
+<table class="table is-bordered is-striped is-hoverable is-fullwidth">
+<thead>
+<tr>
+<th></th>
+<th>Name</th>
+<th>Link</th>  
+</tr>
+</thead>
+
+<tfoot>
+<tr>
+<th></th>
+<th>Name</th>
+<th>Link</th>  
+</tr>
+</tfoot>
+
+
+{{ range .Site.Pages }}
+
+
+<tbody>
+<tr>
+<td></td>
+<td> {{ .Name }} </td>
+<td><a href="{{ .URL }}">{{ .URL }}</a></td>
+<td></td>
+</tr>
+</tbody>
+
+
+{{ end }}
+
+</table>
+
+
+
+</div>
+</section>
+
+

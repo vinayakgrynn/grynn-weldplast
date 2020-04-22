@@ -1,8 +1,10 @@
-
-{{ range .Site.Pages }}
-
-<a href="{{ .URL }}">
-{{.Name}} - {{ .URL }}
-</a>
-<br>
-{{ end }}
+<!DOCTYPE html>
+<html lang="en-US">
+    {{- partial "head.html" . -}}
+    <body>
+        {{- partial "menu.html" . -}}
+        {{- partial "productlist.html" . -}}
+        {{- partial "footer.html" . -}}
+        {{- partial "script.html" . -}}
+    </body>
+</html>
