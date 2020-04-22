@@ -1,0 +1,12 @@
+---
+Filename: "nuz-serezavaci-s-vodicimi-sankami-06mm
+Link: "file:/Users/vinayakpatel/Downloads/www.weldplast.cz/nuz-serezavaci-s-vodicimi-sankami-06mm"
+product_name: "Nůž seřezávací s vodícimi sáňkami 0,6mm"
+product_id: "Obj. číslo:117.000"
+title: "Nůž seřezávací s vodícimi sáňkami 0,6mm | Weldplast"
+product_desc: ""
+product_specs: ""
+href: ""
+accessories: "Sáňky náhradní 0,6 mm pro seřezávací nůžBřit náhradní pro seřezávací nůž 5 ks"
+similar_products: ""
+---

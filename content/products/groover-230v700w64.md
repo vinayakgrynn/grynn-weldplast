@@ -1,0 +1,12 @@
+---
+Filename: "groover-230v700w64
+Link: "file:/Users/vinayakpatel/Downloads/www.weldplast.cz/groover-230v700w64"
+product_name: "GROOVER230 V / 700 W, včetně boxu"
+product_id: "Obj. číslo:111.032"
+title: "Groover 230V/700W | Weldplast"
+product_desc: "Drážkovací stroj Leister GROOVER řeže drážky pro sváry do silných, odolných podlahových krytin z PVC-P, PE a linolea. Tři válečky mu umožňují plynulý klouzavý pohyb a řez v konstantní hloubce i při vysokých rychlostech. Drážkování všech typů podlahových krytin Velmi vysoká rotační řezná rychlost ve dvou úrovních Nastavitelné vodicí kolo pro přesný pojezd Drážkování je možné i u okrajů Práce bez prachu a nečistot díky přídavnému ventilátoru a vaku na prach"
+product_specs: "Značka konformity, Značka schválení, Třída ochrany II, NapětíV~230, PříkonW250 / 700 (2 stupně), FrekvenceHz50 / 60, Rychlostm/min																								Stupeň 1: 14500 (350 W)																								Stupeň 2: 18500 (700 W)																							, Úroveň hlučnosti LpAdB84, Rozměry (D x Š x V)mm240 x 205 x 255, Hmotnostkg6,7 (s kabelem 3 m a trubkou vyhazovače), Druh certifikaceCCA, Hloubka drážkymm0 - 4"
+href: "https://www.weldplast.cz/files/groover-produktovy-list-leister.pdf, https://www.weldplast.cz/files/groover-produktovy-list-leister.pdf, https://www.weldplast.cz/files/groover-manual-cz1.pdf, https://www.weldplast.cz/files/groover-manual-cz1.pdf"
+accessories: "GROOVER230 V / 700 W, včetně boxu"
+similar_products: ""
+---

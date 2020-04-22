@@ -1,0 +1,12 @@
+---
+Filename: "variant-t144
+Link: "file:/Users/vinayakpatel/Downloads/www.weldplast.cz/variant-t144"
+product_name: "VARIANT T1 OVERLAP20 mm, 230 V / 3680 W"
+product_id: "Obj. číslo:141.892"
+title: "Variant T1 | Weldplast"
+product_desc: "Svařovací automat Leister VARIANT T1 OVERLAP se vyznačuje výjimečnou rychlostí až 18 m/min. Díky kompaktnímu štíhlému designu je svařované místo ze všech stran dobře vidět. Při vyvíjení tohoto přístroje byl kladen důraz na snadnou manipulaci při každodenním užití, výsledkem jsou četná zdokonalení v tomto směru.Výjimečná max. rychlost až 18 m/minSvařované místo je dobře vidět ze všech stranPevný a odolný přístroj vhodný pro profesionální užitíZdvihací zařízení umožňuje plynulé a přesné umístění přístrojeSnadná obsluha díky ovládání e-Drive"
+product_specs: "Značka konformity, Značka schválení, Třída ochrany I, NapětíV~230, PříkonW3680, Max. teplota°C620, Rychlostm/min1,5 - 18, Rozsah průtoku vzduchu%40 - 100, Úroveň hlučnosti LpAdB70, Rozměry (D x Š x V)mm500 x 400 x 195, Hmotnostkg22 (bez 1,5 kabelu), Druh certifikaceCCA, Šířka svarumm20"
+href: "https://www.weldplast.cz/files/katalog-technicke-tkaniny-2019-web.pdf, https://www.weldplast.cz/files/katalog-technicke-tkaniny-2019-web.pdf, https://www.weldplast.cz/files/varimat-v2-manual-sk.pdf, https://www.weldplast.cz/files/varimat-v2-manual-sk.pdf, https://www.weldplast.cz/files/variant-t1-manual-cz.pdf, https://www.weldplast.cz/files/variant-t1-manual-cz.pdf, https://www.weldplast.cz/files/variant-t1-overlap-prod-list-cz.pdf, https://www.weldplast.cz/files/variant-t1-overlap-prod-list-cz.pdf"
+accessories: "Kit na přestavbu z preplátovaní do 25mm\"Vandalsystém\", VARIANT T1 TAPE50 mm, 400 VVARIANT T1 TAPE400 V, páska 25mm, \"Anti-vandal\"VARIANT T1 TAPE50 mm, 230 VVARIANT T1 TAPE25 mm, 230 V \"Anti-vandal\"VARIANT T1 OVERLAP20 mm, 400 V / 5700 W, 16A-5PVARIANT T1 OVERLAP40 mm, 400 V / 5700 W, 16A-5PVARIANT T1 OVERLAP20 mm, 230 V / 3680 WVARIANT T1 OVERLAP40 mm, 230 V / 3680 W"
+similar_products: "VARIANT T1 TAPE50 mm, 400 VVARIANT T1 TAPE400 V, páska 25mm, \"Anti-vandal\"VARIANT T1 TAPE50 mm, 230 VVARIANT T1 TAPE25 mm, 230 V \"Anti-vandal\"VARIANT T1 OVERLAP20 mm, 400 V / 5700 W, 16A-5PVARIANT T1 OVERLAP40 mm, 400 V / 5700 W, 16A-5PVARIANT T1 OVERLAP20 mm, 230 V / 3680 WVARIANT T1 OVERLAP40 mm, 230 V / 3680 W"
+---

@@ -1,0 +1,12 @@
+---
+Filename: "brit-nahradni-pro-srezavaci-nuz-5ks
+Link: "file:/Users/vinayakpatel/Downloads/www.weldplast.cz/brit-nahradni-pro-srezavaci-nuz-5ks"
+product_name: "Břit náhradní pro seřezávací nůž 5 ks"
+product_id: "Obj. číslo:117.005"
+title: "Břit náhradní pro sřezávací nuž 5ks | Weldplast"
+product_desc: ""
+product_specs: ""
+href: ""
+accessories: "Sáňky náhradní 0,6 mm pro seřezávací nůž"
+similar_products: ""
+---

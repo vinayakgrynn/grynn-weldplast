@@ -1,0 +1,12 @@
+---
+Filename: "vulcan-system
+Link: "file:/Users/vinayakpatel/Downloads/www.weldplast.cz/vulcan-system"
+product_name: "VULCAN SYSTEM3 x 400 V / 11 kW"
+product_id: "Obj. číslo:140.463"
+title: "VULCAN SYSTEM | Weldplast"
+product_desc: "Nové horkovzdušné dmychadlo Leister VULCAN SYSTEM je nástupcem osvědčeného Leister VULCAN E.Bezuhlíkový motor garantuje dlouhou životnostDigitální displej informuje uživatele o aktuálních hodnotáchIntegrovaná ochrana zařízení a topného tělesa s alarmemIntegrovaná termosonda pro ještě přesnější nastavení teplotyStandardní rozhraní umožňuje dálkové ovládání pomocí signálů 4-20 mA nebo 0-10 VRuční vzduchové šoupátkoOhřev plynule regulovatelný potenciometrem"
+product_specs: "Značka konformity, Značka schválení, Třída ochrany I, NapětíV~3 x 400, PříkonW11 000, FrekvenceHz50 / 60, Max. teplota°C650, Průtok vzduchul/min950 / 1700, Statický tlakPa3100 - 4000, Úroveň hlučnosti LpAdB65, Hmotnostkg9,3, Druh certifikaceCCA, Max. vstupní teplota vzduchu°C650"
+href: "https://www.weldplast.cz/files/1258-vulcan-system-produktovy-list.pdf, https://www.weldplast.cz/files/1258-vulcan-system-produktovy-list.pdf, https://www.weldplast.cz/files/vulcan-system-manual-sk.pdf, https://www.weldplast.cz/files/vulcan-system-manual-sk.pdf, https://www.weldplast.cz/files/vulcan-system-manual-cz.pdf, https://www.weldplast.cz/files/vulcan-system-manual-cz.pdf, https://www.weldplast.cz/files/katalog-ph-web.pdf, https://www.weldplast.cz/files/katalog-ph-web.pdf"
+accessories: "Držák termosondy (LHS 60)Příruba připojovací (ø 92.5 mm), ø 120 mmPříruba připojovací (ø 62.5 mm), ø 90 mmFiltr sání, ø 60 mm (VULKAN), VULCAN SYSTEM3 x 400 V / 6 kWVULCAN SYSTEM3 x 400 V / 11 kWHOTWIND SYSTEM400 V / 5400 WHOTWIND PREMIUM400 V / 5400 WHOTWIND PREMIUM230 V / 3100 W, 800°C, flexo kabelHOTWIND PREMIUM230V / 2300W, 650 °C, eurozástrčkaHOTWIND PREMIUM230 V / 3700 W, flexo kabelHOTWIND SYSTEM230 V / 2300 W, flexo kabelHOTWIND SYSTEM230 V / 3700 W, flexo kabel"
+similar_products: "VULCAN SYSTEM3 x 400 V / 6 kWVULCAN SYSTEM3 x 400 V / 11 kWHOTWIND SYSTEM400 V / 5400 WHOTWIND PREMIUM400 V / 5400 WHOTWIND PREMIUM230 V / 3100 W, 800°C, flexo kabelHOTWIND PREMIUM230V / 2300W, 650 °C, eurozástrčkaHOTWIND PREMIUM230 V / 3700 W, flexo kabelHOTWIND SYSTEM230 V / 2300 W, flexo kabelHOTWIND SYSTEM230 V / 3700 W, flexo kabel"
+---

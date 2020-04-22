@@ -1,0 +1,12 @@
+---
+Filename: "varimat-v233
+Link: "file:/Users/vinayakpatel/Downloads/www.weldplast.cz/varimat-v233"
+product_name: "VARIMAT V240 mm, 230 V / 4600 W, 16A-5P, včetně boxu"
+product_id: "Obj. číslo:138.108"
+title: "Varimat V2 | Weldplast"
+product_desc: "Leister VARIMAT V2 je vhodný pro svařování střešních fólií z PVC, TPO, ECB, EPDM a CSPE přeplátováním. Jedná se o zdokonalenou verzi léty osvědčeného Leister VARIMATU V, který poprvé spatřil světlo světa již v roce 1999. Při vyvíjení nového Leister VARIMATU V2 byl kladen důraz především na rychlost přístroje. Díky výkonnému bezuhlíkovému motoru a nové patentované svařovací trysce je s novým VARIMATEM V2 možné svařovat rychlostí až 8 m/min.Rychlost svařování až 8 m/min (podle materiálu), rychlost pojezdu až 12m/minNastavitelná vodicí tyčBezuhlíkový motor sníží servisní náklady – už žádné vyměňování uhlíků!Displej s ovládáním Leister e-Drive umožňuje zobrazení přednastavených a uložených parametrůDíky nové patentované gripové trysce již není potřeba TPO fólie před svařováním čistitUmožňuje svařování ve sklonu až 30°"
+product_specs: "Značka konformity, Značka schválení, Třída ochrany I, NapětíV~230, PříkonW4600, Rychlostm/min0,7 - 12, Rozsah průtoku vzduchu%50 - 100, Rozměry (D x Š x V)mm640 x 430 x 330, Hmotnostkg35, Druh certifikaceCCA, Šířka svarumm40"
+href: "https://www.weldplast.cz/files/svarovaci-automaty-vyhody.pdf, https://www.weldplast.cz/files/svarovaci-automaty-vyhody.pdf, https://www.weldplast.cz/files/katalog-ploche-strechy-2018-05-el.pdf, https://www.weldplast.cz/files/katalog-ploche-strechy-2018-05-el.pdf, https://www.weldplast.cz/files/varimat-v2-prestavba-na-svarovani-solarnich-profilu.pdf, https://www.weldplast.cz/files/varimat-v2-prestavba-na-svarovani-solarnich-profilu.pdf, https://www.weldplast.cz/files/varimat-v2-produktovy-list-leister.pdf, https://www.weldplast.cz/files/varimat-v2-produktovy-list-leister.pdf, https://www.weldplast.cz/files/993-varimat-v2-manual-cz.pdf, https://www.weldplast.cz/files/993-varimat-v2-manual-cz.pdf"
+accessories: "Box pro VARIMAT720 x 470 x 450 mmSet pro bitumeny80 mm, 400 V / 6100 W (VARIMAT), BITUMAT B275 mm, 400 V / 50 Hz / 6700 W, 16A-5PBITUMAT B2100 mm, 230 V / 50 Hz / 6700 W, 32A-5PVARIMAT V240 mm, 230 V / 4600 W, 16A-5P, včetně boxuVARIMAT V240 mm, 400 V / 5700 W, 16A-5P, včetně boxu"
+similar_products: "BITUMAT B275 mm, 400 V / 50 Hz / 6700 W, 16A-5PBITUMAT B2100 mm, 230 V / 50 Hz / 6700 W, 32A-5PVARIMAT V240 mm, 230 V / 4600 W, 16A-5P, včetně boxuVARIMAT V240 mm, 400 V / 5700 W, 16A-5P, včetně boxu"
+---

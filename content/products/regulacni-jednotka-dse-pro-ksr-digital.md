@@ -1,0 +1,12 @@
+---
+Filename: "regulacni-jednotka-dse-pro-ksr-digital
+Link: "file:/Users/vinayakpatel/Downloads/www.weldplast.cz/regulacni-jednotka-dse-pro-ksr-digital"
+product_name: "Regulační jednotka DSE pro KSR DIGITAL3 x 380-440V, 3 x 20A, s potenciometrem"
+product_id: "Obj. číslo:110.572"
+title: "Regulační jednotka DSE pro KSR DIGITAL | Weldplast"
+product_desc: "Pomocí třífázové regulační jednotky Leister DSE lze externě regulovat výkon Leister ohřívačů vzduchu bez elektroniky. Teplotu vzduchu je možné regulovat také v kombinaci s regulátorem Leister KSR DIGITAL.Modul s externí výkonovou elektronikou pro ohřívače vzduchu bez elektroniky řady LE 5000 HT/DF a LE 10 000 HT/DFVýkon ohřevu plynule regulovatelný pomocí potenciometruRozhraní dálkového ovládání pro teplotní regulátor KSR DIGITAL nebo externí řízení PLC 0-12V"
+product_specs: "Značka konformity, Třída ochrany I, NapětíV~3 x 380 - 440, Rozměry (D x Š x V)mm230 x 165 x 86"
+href: "https://www.weldplast.cz/files/dse.pdf, https://www.weldplast.cz/files/dse.pdf, https://www.weldplast.cz/files/katalog-ph-web.pdf, https://www.weldplast.cz/files/katalog-ph-web.pdf"
+accessories: "Multi patch Panel, MPM 01Kabel řídicí, 5 m (KSR-DSE)Kabel termosondy prodlužovací, 10 mKabel termosondy prodlužovací, 4 mKabel termosondy prodlužovací, 2 mTermosonda s 1m kabelem a zástrčkou (CSS easy), Regulační jednotka CSSbez kabelu, šroubové konektoryRegulační jednotka KSR DIGITAL100-240 V, pro DSE/HT (900°C)Regulační jednotka DSE pro KSR DIGITAL3 x 380-440V, 3 x 20A, s potenciometremRegulační jednotka DSE3 x 380-440 V / 3 x 20 A, s potenciometremRegulační jednotka KSR DIGITAL pro HOTWIND S400-440 V / 4000-5400 WRegulační jednotka KSR DIGITAL pro HOTWIND S230 V / 3700 WRegulační jednotka KSR DIGITAL pro LE 700100-240 V"
+similar_products: "Regulační jednotka CSSbez kabelu, šroubové konektoryRegulační jednotka KSR DIGITAL100-240 V, pro DSE/HT (900°C)Regulační jednotka DSE pro KSR DIGITAL3 x 380-440V, 3 x 20A, s potenciometremRegulační jednotka DSE3 x 380-440 V / 3 x 20 A, s potenciometremRegulační jednotka KSR DIGITAL pro HOTWIND S400-440 V / 4000-5400 WRegulační jednotka KSR DIGITAL pro HOTWIND S230 V / 3700 WRegulační jednotka KSR DIGITAL pro LE 700100-240 V"
+---

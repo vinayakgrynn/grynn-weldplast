@@ -1,0 +1,12 @@
+---
+Filename: "trubka-prodluzovaci-nasuvna-o-925-mm
+Link: "file:/Users/vinayakpatel/Downloads/www.weldplast.cz/trubka-prodluzovaci-nasuvna-o-925-mm"
+product_name: "Trubka prodlužovací, násuvná (ø 92,5 mm)500 x ø 60 mm, pro LE 10 000"
+product_id: "Obj. číslo:107.273"
+title: "Trubka prodlužovací, násuvná (ø 92,5 mm) | Weldplast"
+product_desc: ""
+product_specs: ""
+href: ""
+accessories: ""
+similar_products: ""
+---
