@@ -1,90 +1,38 @@
 
-<section class="hero is-info">
-  <div class="hero-body">
-<ol>
 {{ range $.Site.Data.weldplast }}
 
-<li>
-<table class="table is-bordered is-striped is-hoverable is-fullwidth">
+    <section class="hero is-info">
+      <div class="container">
+            <div class="card">
+              <div class="card-image">
+                <figure class="image is-4by3">
+                  <img src="https://bulma.io/images/placeholders/1280x960.png" alt="Placeholder image">
+                </figure>
+              </div>
+              <div class="card-content">
+                <!-- div class="media">
+                  <div class="media-left">
+                    <figure class="image is-48x48">
+                      <img src="https://bulma.io/images/placeholders/96x96.png" alt="Placeholder image">
+                    </figure>
+                  </div -->
 
-<tr>
-<td>
-Product Name: 
-</td>
-<td>
-{{ .product_name }}
-</td>
-</tr>
+                  <div class="content">
+                    <p class="title is-4">{{ .title }}</p>
+                    <p class="title is-4">{{ .product_name }}</p>
+                    <p class="subtitle is-6">Product Id : {{ .product_id }}</p>
+                    <p class="subtitle is-6"></p>
+                    </div>
+                </div>
+                <div class="content">
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                  Phasellus nec iaculis mauris. <a>@bulmaio</a>.
+                  <a href="#">#css</a> <a href="#">Product Id : {{ .Permalink }}</a>            <br/>
+                  <time datetime="2016-1-1">11:09 PM - 1 Jan 2016</time>
+                </div>
 
-<tr>
-<td>
-Product ID: 
-</td>
-<td>
-{{ .product_id }}
-</td>
-</tr>
+            </div>
 
-<tr>
-<td>
-URL: 
-</td>
-<td>
-{{ .URL }}
-</td>
-</tr>
-
- 
-<tr>
-<td>
-Title: 
-</td>
-<td>
-{{ .title }}
-</td>
-</tr>
- 
-
-
-<tr>
-<td>
-Product Specs: 
-</td>
-<td>
-{{ .product_specs }}
-</td>
-</tr>
- 
-
-<tr>
-<td>
-Product Downloads: 
-</td>
-<td>
-{{ .product_downloads }}
-</td>
-</tr>
- 
-
-<tr>
-<td>
-href: 
-</td>
-<td>
-{{ .href }}
-</td>
-</tr>
-
-
-</table>
-<hr>
-
-</li>
-
-{{ end }}
-</ol>
-
- </div>
-</section>
-
-
+      </div>
+    </section>
+    {{ end }}
