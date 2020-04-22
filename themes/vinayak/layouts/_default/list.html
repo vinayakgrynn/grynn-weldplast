@@ -1,57 +1,17 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    {{- partial "head.html" . -}}
+    <body>
+        {{- partial "menu.html" . -}}
+        
+        {{- partial "header.html" . -}}
 
-{{ .Site.BaseURL }}
+        {{- partial "hero.html" . -}}
 
-{{ .URL }}
+        {{- partial "products.html" . -}}
 
-<br>
-
-
-
-{{ range .Site.Pages }}
-
-<br>
-{{ .File }}
-<br>
-{{ .Content }}
-
-{{ end }}
-
-
-
-
-<!-- sidebar start -->
-<aside>
-    <ul>
-        {{ $currentPage := . }}
-        {{ range .Site.Menus.main }}
-            {{ if .HasChildren }}
-                <li class="{{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
-                    <a href="#">
-                        {{ .Pre }}
-                        <span>{{ .Name }}</span>
-                    </a>
-                </li>
-                <ul class="sub-menu">
-                    {{ range .Children }}
-                        <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
-                            <a href="{{ .URL }}">{{ .Name }}</a>
-                        </li>
-                    {{ end }}
-                </ul>
-            {{ else }}
-                <li>
-                    <a href="{{ .URL }}">
-                        {{ .Pre }}
-                        <span>{{ .Name }}</span>
-                    </a>
-                </li>
-            {{ end }}
-        {{ end }}
-        <li>
-            <a href="#" target="_blank">Hardcoded Link 1</a>
-        </li>
-        <li>
-            <a href="#" target="_blank">Hardcoded Link 2</a>
-        </li>
-    </ul>
-</aside>
+        {{- partial "footer.html" . -}}
+        
+        {{- partial "script.html" . -}}
+    </body>
+</html>
