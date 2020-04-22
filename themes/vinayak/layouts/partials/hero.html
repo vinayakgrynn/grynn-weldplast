@@ -1,15 +1,92 @@
 <section class="hero is-info">
   <div class="hero-body">
 
-    <div class="container">
-      <h1 class="title">
-        All Products
-      </h1>
-      <h2 class="subtitle">
-        Following details is coming from json:
-      </h2>
-    </div>
+<table class="table is-bordered is-striped is-hoverable is-fullwidth">
 
-  </div>
+<tr>
+<td>
+Product Name: 
+</td>
+<td>
+{{ .Params.product_name }}
+</td>
+</tr>
+
+<tr>
+<td>
+Product ID: 
+</td>
+<td>
+{{ .Params.product_id }}
+</td>
+</tr>
+
+
+<tr>
+<td>
+URL: 
+</td>
+<td>
+{{ .Params.Link }}
+</td>
+</tr>
+ 
+<tr>
+<td>
+Title: 
+</td>
+<td>
+{{ .Params.title }}
+</td>
+</tr>
+ 
+
+
+<tr>
+<td>
+Product Specs: 
+</td>
+<td>
+{{ .Params.product_specs }}
+</td>
+</tr>
+
+ 
+
+<tr>
+<td>
+Accessories: 
+</td>
+<td>
+{{ .Params.accessories }}
+</td>
+</tr>
+
+
+<tr>
+<td>
+Similar Products: 
+</td>
+<td>
+{{ .Params.similar_products }}
+</td>
+</tr>
+
+
+<tr>
+<td>
+Href: 
+</td>
+<td>
+{{ .Params.href }}
+</td>
+</tr>
+
+
+</table>
+<hr>
+
+
+ </div>
 </section>
 

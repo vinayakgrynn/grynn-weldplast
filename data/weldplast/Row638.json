@@ -8,5 +8,6 @@
   "product_downloads" : [ "FREKVENČNÍ MĚNIČE- produktový list\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tstáhnout\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t", "TECHNOLOGIE HORKÉHO VZDUCHU - katalog\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tstáhnout\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t" ],
   "href" : [ "https://www.weldplast.cz/files/frekvencni-menice-m100-012-m100-034.pdf", "https://www.weldplast.cz/files/frekvencni-menice-m100-012-m100-034.pdf", "https://www.weldplast.cz/files/katalog-ph-web.pdf", "https://www.weldplast.cz/files/katalog-ph-web.pdf" ],
   "p_desc_2" : [ "Frekvenční měniče M 100-012 a M 100-034 umožňují nastavovat objem vzduchu a výkon ohřevu nezávisle na sobě a přesně. Umožňují také nastavení vyššího či nižšího průtoku vzduchu." ],
-  "head" : [ "Frekvenční měnič M 100-034 | Weldplast/**//**//**//**//**/\nvar CMS_ga_code = 'UA-20655970-1';\n/**//**/\nvar CMS_ga_site = '.weldplast.cz';\n/**//**//**//**/\nvar CMS_URL = \"https://www.weldplast.cz/\";\n/**//**/\nvar CMS_URL_FULL = \"https://www.weldplast.cz/\";\n/**//**/\nvar CMS_IMG_URL = \"https://www.weldplast.cz/assets/cs/images/\";\n/**//**/\nvar CMS_CURRENCY = \"czk\";\n/**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**/\ndocument.documentElement.className = document.documentElement.className.replace('no-js', 'js');\n/**/" ]
+  "accessories" : [ "Frekvenční měnič M 100-012230 V / do 750 W (ROBUST,SILENCE,ASO)" ],
+  "similar_products" : [ ]
 }

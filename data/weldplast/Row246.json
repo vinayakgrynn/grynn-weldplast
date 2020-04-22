@@ -8,5 +8,6 @@
   "product_downloads" : [ "ZVON ZKUŠEBNÍ - produktový list\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tstáhnout\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t" ],
   "href" : [ "https://www.weldplast.cz/files/zvon-s-vyvevou-produktovy-list-eng-1.pdf", "https://www.weldplast.cz/files/zvon-s-vyvevou-produktovy-list-eng-1.pdf" ],
   "p_desc_2" : [ "Vakuová pumpa na testování těsnosti svarů pomocí změny podtlaku.Pružná a silná hadicePřepravní boxKompletní testovací zařízení se skládá ze zvonu (hranatého nebo kulatého) a vývěvy." ],
-  "head" : [ "Pumpa vákuova 230V | Weldplast/**//**//**//**//**/\nvar CMS_ga_code = 'UA-20655970-1';\n/**//**/\nvar CMS_ga_site = '.weldplast.cz';\n/**//**//**//**/\nvar CMS_URL = \"https://www.weldplast.cz/\";\n/**//**/\nvar CMS_URL_FULL = \"https://www.weldplast.cz/\";\n/**//**/\nvar CMS_IMG_URL = \"https://www.weldplast.cz/assets/cs/images/\";\n/**//**/\nvar CMS_CURRENCY = \"czk\";\n/**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**/\ndocument.documentElement.className = document.documentElement.className.replace('no-js', 'js');\n/**/" ]
+  "accessories" : [ "Zvon vakuový zkušebníkulatý, ø 320Zvon vakuový zkušebníhranatý, 810 mm x 310 mm" ],
+  "similar_products" : [ ]
 }

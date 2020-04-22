@@ -8,5 +8,6 @@
   "product_downloads" : [ "ZVON ZKUŠEBNÍ - produktový list\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tstáhnout\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t" ],
   "href" : [ "https://www.weldplast.cz/files/zvon-s-vyvevou-produktovy-list-eng-1.pdf", "https://www.weldplast.cz/files/zvon-s-vyvevou-produktovy-list-eng-1.pdf" ],
   "p_desc_2" : [ "LEISTER VAKUOVÝ ZKUŠEBNÍ ZVON na testování těsnosti svarů pomocí změny podtlaku s manometrem.Obdelníkový tvar (810 mm x 310 mm)Velká testovací oblastSnadná manipulaceKompletní testovací zařízení se skládá ze zvonu (hranatého nebo kulatého) a vývěvy." ],
-  "head" : [ "Zvon zkušební 810mm x 310mm | Weldplast/**//**//**//**//**/\nvar CMS_ga_code = 'UA-20655970-1';\n/**//**/\nvar CMS_ga_site = '.weldplast.cz';\n/**//**//**//**/\nvar CMS_URL = \"https://www.weldplast.cz/\";\n/**//**/\nvar CMS_URL_FULL = \"https://www.weldplast.cz/\";\n/**//**/\nvar CMS_IMG_URL = \"https://www.weldplast.cz/assets/cs/images/\";\n/**//**/\nvar CMS_CURRENCY = \"czk\";\n/**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**//**/\ndocument.documentElement.className = document.documentElement.className.replace('no-js', 'js');\n/**/" ]
+  "accessories" : [ "Pumpa vákuová230 V, vč. kufru, 5 m hadice, množství vzduchu 3,5/4,2 m3/hZvon vakuový zkušebníkulatý, ø 320" ],
+  "similar_products" : [ ]
 }
