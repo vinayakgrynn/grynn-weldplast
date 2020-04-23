@@ -1,0 +1,14 @@
+---
+Filename: "sablona-merici"
+Link: "file:/Users/vinayakpatel/Downloads/www.weldplast.cz/sablona-merici"
+product_name: "Šablona měřicípro K/V svary"
+product_id: "Obj. číslo:152.676"
+title: "Šablona měřicí | Weldplast"
+product_desc: ""
+product_specs: ""
+product_downloads: ""
+href: ""
+p_desc_2: ""
+accessories: ""
+similar_products: ""
+---

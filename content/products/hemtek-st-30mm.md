@@ -1,0 +1,14 @@
+---
+Filename: "hemtek-st-30mm"
+Link: "file:/Users/vinayakpatel/Downloads/www.weldplast.cz/hemtek-st-30mm"
+product_name: "HEMTEK ST30 mm, 230 V / 3450 W"
+product_id: "Obj. číslo:157.861"
+title: "Hemtek ST 30mm | Weldplast"
+product_desc: "Svařování lemů nebylo nikdy snazší. Svařovací přístroj HEMTEK ST je určen pro širokou škálu aplikací – velice snadno můžete svařovat např. propagační bannery, plachty apod. Přístroj během chvíle a velmi jednoduše připevníte k téměř jakémukoliv pracovnímu stolu a můžete začít svařovat.Svařovací rychlost až 12 m/min.Silné dmychadloSnadné nastavení lemovacího zařízení1 lemovací zařízení pro 3 různé aplikace: lem: 20/30/40 mm; otevřený lem do 100 mm; kedrSnadné ovládání: díky pedálu máte obě ruce volné pro manipulaci s materiálemVše v jednom: již není třeba žádné další svařování ručními přístrojiVšechny svařovací parametry jsou nastavitelnéOchlazovací režimLze upnout na téměř jakýkoliv stůl pomocí nastavitelného rychloupínacího zámku"
+product_specs: "Značka schválení, Třída ochrany I, NapětíV~230, PříkonW3450, FrekvenceHz50 / 60, Max. teplota°C650, Rychlostm/min0,8 - 12, Úroveň hlučnosti LpAdB70, Rozměry (D x Š x V)mm433 x 350 x 600, Hmotnostkg27 (včetně připevňovacího zařízení), Šířka trysekmm30"
+product_downloads: "TECHNICKÉ TKANINY - katalog stáhnout , HEMTEK ST - manuál CZ stáhnout , HEMTEK ST - produktový list stáhnout"
+href: "https://www.weldplast.cz/files/katalog-technicke-tkaniny-2019-web.pdf, https://www.weldplast.cz/files/katalog-technicke-tkaniny-2019-web.pdf, https://www.weldplast.cz/files/hemtek-cz.pdf, https://www.weldplast.cz/files/hemtek-cz.pdf, https://www.weldplast.cz/files/hemtek-datasheet-cz-2017-web.pdf, https://www.weldplast.cz/files/hemtek-datasheet-cz-2017-web.pdf"
+p_desc_2: "Svařování lemů nebylo nikdy snazší. Svařovací přístroj HEMTEK ST je určen pro širokou škálu aplikací – velice snadno můžete svařovat např. propagační bannery, plachty apod. Přístroj během chvíle a velmi jednoduše připevníte k téměř jakémukoliv pracovnímu stolu a můžete začít svařovat.Svařovací rychlost až 12 m/min.Silné dmychadloSnadné nastavení lemovacího zařízení1 lemovací zařízení pro 3 různé aplikace: lem: 20/30/40 mm; otevřený lem do 100 mm; kedrSnadné ovládání: díky pedálu máte obě ruce volné pro manipulaci s materiálemVše v jednom: již není třeba žádné další svařování ručními přístrojiVšechny svařovací parametry jsou nastavitelnéOchlazovací režimLze upnout na téměř jakýkoliv stůl pomocí nastavitelného rychloupínacího zámku"
+accessories: "SEAMTEK W-900 AT230 V / 3900 WnovéHEMTEK K-STSEAMTEK 900 ATpodstavec, 2 ocelová přítlačná kola 25 mm, standardní tryska 25 mmHEMTEK ST20mm, 230V/ 2350 WHEMTEK ST40 mm, 230 V / 3450 W"
+similar_products: ""
+---

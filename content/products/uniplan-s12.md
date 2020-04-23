@@ -1,0 +1,14 @@
+---
+Filename: "uniplan-s12"
+Link: "file:/Users/vinayakpatel/Downloads/www.weldplast.cz/uniplan-s12"
+product_name: "UNIPLAN S30 mm, 230 V / 2300 W, včetně boxu"
+product_id: "Obj. číslo:115.050"
+title: "Uniplan S | Weldplast"
+product_desc: "Leister UNIPLAN S je určen pro zákazníky, kteří preferují snadné intuitivní ovládání.Malý, lehký, praktickýSnadné intuitivní ovládáníVysoká rychlost svařováníIntegrovaný zvedací mechanismusPraktický přepravní box součástí dodávky"
+product_specs: "Značka konformity, Značka schválení, Třída ochrany I, NapětíV~230, PříkonW2300, FrekvenceHz50 / 60, Max. teplota°C620, Rychlostm/min1 - 7,5, Rozsah průtoku vzduchu%50 - 100, Průtok vzduchul/min300, Úroveň hlučnosti LpAdB65, Rozměry (D x Š x V)mm420 x 270 x 210, Hmotnostkg11,5 (s kabelem 3 m), Druh certifikaceCCA, Šířka svarumm30"
+product_downloads: "TECHNICKÉ TKANINY - katalog stáhnout , UNIPLAN S - manuál SK stáhnout , UNIPLAN S - manuál CZ stáhnout , UNIPLAN - produktový list stáhnout"
+href: "https://www.weldplast.cz/files/katalog-technicke-tkaniny-2019-web.pdf, https://www.weldplast.cz/files/katalog-technicke-tkaniny-2019-web.pdf, https://www.weldplast.cz/files/uniplan-s-unifloor-s-manual-sk.pdf, https://www.weldplast.cz/files/uniplan-s-unifloor-s-manual-sk.pdf, https://www.weldplast.cz/files/uniplan-s-manual-cz.pdf, https://www.weldplast.cz/files/uniplan-s-manual-cz.pdf, https://www.weldplast.cz/files/uniplan-e-s-produktovy-list-leister.pdf, https://www.weldplast.cz/files/uniplan-e-s-produktovy-list-leister.pdf"
+p_desc_2: "Leister UNIPLAN S je určen pro zákazníky, kteří preferují snadné intuitivní ovládání.Malý, lehký, praktickýSnadné intuitivní ovládáníVysoká rychlost svařováníIntegrovaný zvedací mechanismusPraktický přepravní box součástí dodávky"
+accessories: "Tyč vodicíUNIPLAN, UNIPLAN S30 mm, 230 V / 2300 W, včetně boxuUNIPLAN S20 mm, 230 V / 2300 W, včetně boxuUNIPLAN E30 mm, 230 V / 2300 W, včetně boxuUNIPLAN E230 V / 2300 W, včetně boxu"
+similar_products: "UNIPLAN S30 mm, 230 V / 2300 W, včetně boxuUNIPLAN S20 mm, 230 V / 2300 W, včetně boxuUNIPLAN E30 mm, 230 V / 2300 W, včetně boxuUNIPLAN E230 V / 2300 W, včetně boxu"
+---

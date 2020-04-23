@@ -1,0 +1,14 @@
+---
+Filename: "brit-nahradni-plochy"
+Link: "file:/Users/vinayakpatel/Downloads/www.weldplast.cz/brit-nahradni-plochy"
+product_name: "Břit náhradní plochýdo ruční drážkovačky"
+product_id: "Obj. číslo:111.348"
+title: "Břit náhradní plochý | Weldplast"
+product_desc: ""
+product_specs: ""
+product_downloads: ""
+href: ""
+p_desc_2: ""
+accessories: ""
+similar_products: ""
+---
