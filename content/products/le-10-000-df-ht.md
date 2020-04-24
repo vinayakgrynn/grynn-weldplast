@@ -1,0 +1,14 @@
+---
+product_filename: "C:\Users\paide\Downloads\www.weldplast.cz\markdown\le-10-000-df-ht.md"
+product_link: "file:/C:/Users/paide/Downloads/www.weldplast.cz/www.weldplast.cz/le-10-000-df-ht"
+product_name: "LE 10 000 DF HT3 x 400 V / 15 kW bez elektroniky"
+product_id: "Obj. číslo:116.056"
+product_title: "LE 10 000 DF HT | Weldplast"
+product_desc: "Kompaktní ohřívače vzduchu s dvojitou přírubou Leister LE 5000 / 10000 DF jsou vhodné pro zabudování do systémů rozvodů vzduchu. Teplota vstupního vzduchu může být až 160 °C. Předehřátý vzduch lze znovu použít a ušetřit tak energii. Řada DF HT pro teploty vzduchu nad 600 °C a řada DF-C pro požadvky na bezemisní ohřevy.Kompaktní snadno integrovatelnéVhodné pro recyklaci vzduchuBez integrované výkonové elektronikyVolitelně výkonový regulátor DSE nebo teplotní regulátor KSR DIGITAL"
+product_specs: "Značka konformity Třída ochrany I NapětíV~3 x 400 PříkonW15 000 FrekvenceHz50 / 60 Max. teplota°C900 Průtok vzduchul/min800 Statický tlakPa1 Úroveň hlučnosti LpAdB< 70 Hmotnostkg40 Max. vstupní teplota vzduchu°C150"
+product_downloads: "LE 10000 DF/DF-R - produktový list stáhnout  LE DF- manuál SK stáhnout  LE DF - manuál CZ stáhnout  TECHNOLOGIE HORKÉHO VZDUCHU - katalog stáhnout  Přechod z LE na LHS stáhnout"
+product_href: "files/le-10000-df-df-r-produktovy-list.pdf files/le-10000-df-df-r-produktovy-list.pdf files/le5000-10000-df-sk.pdf files/le5000-10000-df-sk.pdf files/le5000-10000-df-cz.pdf files/le5000-10000-df-cz.pdf files/katalog-ph-web.pdf files/katalog-ph-web.pdf files/prechod-z-le-na-lhs.pdf files/prechod-z-le-na-lhs.pdf"
+product_desc_2: "Kompaktní ohřívače vzduchu s dvojitou přírubou Leister LE 5000 / 10000 DF jsou vhodné pro zabudování do systémů rozvodů vzduchu. Teplota vstupního vzduchu může být až 160 °C. Předehřátý vzduch lze znovu použít a ušetřit tak energii. Řada DF HT pro teploty vzduchu nad 600 °C a řada DF-C pro požadvky na bezemisní ohřevy.Kompaktní snadno integrovatelnéVhodné pro recyklaci vzduchuBez integrované výkonové elektronikyVolitelně výkonový regulátor DSE nebo teplotní regulátor KSR DIGITAL"
+product_accessories: "Adaptér Ø 92 (vnitřní) na Ø 62 (vnější)Adaptér Ø 90 (vnitřní) na Ø 60 (vnější)Příruba LE 10000 DF (Ø 121.5/89.5 mm x 3 mm) výstupPříruba LE 10000 DF (Ø 93 mm) výstupPříruba LE 10000 DF (Ø 91 mm) vstupPodložka klingerit HT 10000 DF vstupPodložka klingerit HT 5000 DF výstup LE 10 000 DF3 x 400 V / 17 kW bez elektronikyLE 10 000 DF3 x 400 V / 5.5 kW bez elektronikyLE 10 000 DF3 x 400 V / 11 kW"
+product_similar: "LE 10 000 DF3 x 400 V / 17 kW bez elektronikyLE 10 000 DF3 x 400 V / 5.5 kW bez elektronikyLE 10 000 DF3 x 400 V / 11 kW"
+---

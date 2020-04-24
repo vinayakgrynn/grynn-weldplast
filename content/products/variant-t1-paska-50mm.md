@@ -1,0 +1,14 @@
+---
+product_filename: "C:\Users\paide\Downloads\www.weldplast.cz\markdown\variant-t1-paska-50mm.md"
+product_link: "file:/C:/Users/paide/Downloads/www.weldplast.cz/www.weldplast.cz/sk/variant-t1-paska-50mm"
+product_name: "VARIANT T1 TAPE50 mm 230 V"
+product_id: "Obj. číslo:148.964"
+product_title: "VARIANT T1 PÁSKA 50mm | Weldplast"
+product_desc: "Zvárací automat Leister VARIANT T1 TAPE sa používa na navarovanie zosilňovacích pásov a tzv. Anti-vandal pásik pri výrobe autoplachiet. Osvedčené ovládanie «e-Drive» umožňuje jednoduché nastavenie príslušných parametrov zvárania. Odvíjacie zariadenie spolu s novo vyvinutými vodiacimi kolieskami navádzajú pásku pod prítlačné koleso a udržujú ju napnutú až do posledného centimetra.Rýchly a presný automat na zváranie páskou (až 18 m / min)Jednoduchá obsluha vďaka ovládaniu Leister e-DriveSúpravy pre prestavbu VARIANT T1 OVERLAP na VARIANT T1 TAPE (25 alebo 50 mm)Konštantná napínania pásky"
+product_specs: "Značka konformity Značka schválenia Trieda ochrany I NapätieV~230 PríkonW3680 FrekvenciaHz50 / 60 Max. teplota°C100 - 620 Rozsah prietoku vzduchu%50 - 100 Rozmerymm700 x 415 x 185 Hmotnosťkg28 (s kabelem 15 m) Druh certifikácieCCA Šírka páskymm50"
+product_downloads: "TECHNICKÉ TKANINY - katalog stiahnuť  VARIANT T1 - manuál SK stiahnuť  VARIANT T1 - manuál CZ stiahnuť  VARIANT T1 (tape) - produktový list stiahnuť"
+product_href: "../files/katalog-technicke-tkaniny-2019-web.pdf ../files/katalog-technicke-tkaniny-2019-web.pdf ../files/varimat-v2-manual-sk.pdf ../files/varimat-v2-manual-sk.pdf ../files/variant-t1-manual-cz.pdf ../files/variant-t1-manual-cz.pdf ../files/variant-t1-tape-produktovy-list-cz.pdf ../files/variant-t1-tape-produktovy-list-cz.pdf"
+product_desc_2: "Zvárací automat Leister VARIANT T1 TAPE sa používa na navarovanie zosilňovacích pásov a tzv. Anti-vandal pásik pri výrobe autoplachiet. Osvedčené ovládanie «e-Drive» umožňuje jednoduché nastavenie príslušných parametrov zvárania. Odvíjacie zariadenie spolu s novo vyvinutými vodiacimi kolieskami navádzajú pásku pod prítlačné koleso a udržujú ju napnutú až do posledného centimetra.Rýchly a presný automat na zváranie páskou (až 18 m / min)Jednoduchá obsluha vďaka ovládaniu Leister e-DriveSúpravy pre prestavbu VARIANT T1 OVERLAP na VARIANT T1 TAPE (25 alebo 50 mm)Konštantná napínania pásky"
+product_accessories: "VARIANT T1 TAPE50 mm 400 VVARIANT T1 TAPE400 V páska 25mm Anti-vandalVARIANT T1 TAPE50 mm 230 VVARIANT T1 TAPE25 mm 230 V Anti-vandalVARIANT T1 OVERLAP20 mm 400 V / 5700 W 16A-5PVARIANT T1 OVERLAP40 mm 400 V / 5700 W 16A-5PVARIANT T1 OVERLAP20 mm 230 V / 3680 WVARIANT T1 OVERLAP40 mm 230 V / 3680 WTAPEMAT Spriegel100 mm 400 V / 10 kW 16A-5PTAPEMAT Spriegel125 mm 400 V / 10 kW 16A-5PTAPEMAT50 mm 400 V / 10 kW 16A-5P"
+product_similar: ""
+---

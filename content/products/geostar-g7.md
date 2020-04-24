@@ -1,0 +1,14 @@
+---
+product_filename: "C:\Users\paide\Downloads\www.weldplast.cz\markdown\geostar-g7.md"
+product_link: "file:/C:/Users/paide/Downloads/www.weldplast.cz/www.weldplast.cz/geostar-g7"
+product_name: "GEOSTAR G7230 V / 2800 W 50 mm"
+product_id: "Obj. číslo:151.035"
+product_title: "GEOSTAR G7 | Weldplast"
+product_desc: "Svařovací poloautomaty GEOSTAR G5 a G7 pro svařování izolačních membrán vynikají robustním hliníkovým rámem s nastavitelnou výškou podvozku. GEOSTAR se pyšní také digitálním displejem se všemi důležitými svařovacími parametry: teplota rychlost tlak a elektrické napětí. Dokonale funkční design umožnuje snadnou údržbu a čištění přístroje – svařovací klín je možné vyjmout nebo vyměnit za méně než jednu minutu. Díky ergonomickému držadlu je možné přístroj nastavit do několika pracovních pozic. GEOSTAR je dostupný ve dvou provedeních – standardní GEOSTAR G5 a rozšířené provedení GEOSTAR G7.Rychlost 12 m/min.Hmotnost 16.4 kg (G5) 17.7 kg (G7) 20-50% nižší hmotnost než u srovnatelných přístrojůVysoký topný výkonDigitální zobrazení svařovacího tlakuVýměna klínu za méně než jednu minutuIntegrovaný displej pro zobrazení napětíNastavitelná výška podvozku"
+product_specs: "Značka konformity Třída ochrany I NapětíV~230 PříkonW2800 FrekvenceHz50 / 60 Max. teplota°C420 Rychlostm/min08 - 12 Svařovací tlakN1500 Rozměry (D x Š x V)mm482 x 278 x 269 Hmotnostkg177"
+product_downloads: "GEOSTAR - manuál CZ stáhnout  GEOSTAR - produktový list stáhnout"
+product_href: "files/geostar-g5-g7-manual-cz.pdf files/geostar-g5-g7-manual-cz.pdf files/geostar-letak-web.pdf files/geostar-letak-web.pdf"
+product_desc_2: "Svařovací poloautomaty GEOSTAR G5 a G7 pro svařování izolačních membrán vynikají robustním hliníkovým rámem s nastavitelnou výškou podvozku. GEOSTAR se pyšní také digitálním displejem se všemi důležitými svařovacími parametry: teplota rychlost tlak a elektrické napětí. Dokonale funkční design umožnuje snadnou údržbu a čištění přístroje – svařovací klín je možné vyjmout nebo vyměnit za méně než jednu minutu. Díky ergonomickému držadlu je možné přístroj nastavit do několika pracovních pozic. GEOSTAR je dostupný ve dvou provedeních – standardní GEOSTAR G5 a rozšířené provedení GEOSTAR G7.Rychlost 12 m/min.Hmotnost 16.4 kg (G5) 17.7 kg (G7) 20-50% nižší hmotnost než u srovnatelných přístrojůVysoký topný výkonDigitální zobrazení svařovacího tlakuVýměna klínu za méně než jednu minutuIntegrovaný displej pro zobrazení napětíNastavitelná výška podvozku"
+product_accessories: "GEOSTAR G5230 V / 2800 W"
+product_similar: ""
+---

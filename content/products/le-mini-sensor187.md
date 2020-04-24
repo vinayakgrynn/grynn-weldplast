@@ -1,0 +1,14 @@
+---
+product_filename: "C:\Users\paide\Downloads\www.weldplast.cz\markdown\le-mini-sensor187.md"
+product_link: "file:/C:/Users/paide/Downloads/www.weldplast.cz/www.weldplast.cz/le-mini-sensor187"
+product_name: "LE MINI SENSOR230 V / 400 W"
+product_id: "Obj. číslo:117.370"
+product_title: "LE MINI SENSOR | Weldplast"
+product_desc: "Ohřívače vzduchu Leister LE MINI jsou vhodné pro instalaci i v těch nejtěsnějších prostorech. Verze Leister SENSOR mají navíc integrovanou termosondu. Přídavné pouzdro SENSOR KIT umožňuje okamžité použití díky integrované výkonové elektronice s teplotním regulátorem.Tepelný spínač pro ochranu zařízení Integrovaná termosonda (SENSOR a SENSOR KIT)Ochrana topného tělesa (SENSOR a SENSOR KIT)Pasivní analogové rozhraní 4-20 mA (SENSOR)Tlakový redukční ventil (SENSOR KIT)"
+product_specs: "Značka konformity Značka schválení Třída ochrany II"
+product_downloads: "LE MINI SENSOR KIT - produktový list stáhnout  LE MINI (SENSOR) - manuál SK stáhnout  LE MINI (SENSOR) - manuál CZ stáhnout  TECHNOLOGIE HORKÉHO VZDUCHU - katalog stáhnout"
+product_href: "files/1267-le-mini-sensor-kit-produktovy-list.pdf files/1267-le-mini-sensor-kit-produktovy-list.pdf files/le-mini-sensor-manual-sk-copy.pdf files/le-mini-sensor-manual-sk-copy.pdf files/le-mini-sensor-manual-cz.pdf files/le-mini-sensor-manual-cz.pdf files/katalog-ph-web.pdf files/katalog-ph-web.pdf"
+product_desc_2: "Ohřívače vzduchu Leister LE MINI jsou vhodné pro instalaci i v těch nejtěsnějších prostorech. Verze Leister SENSOR mají navíc integrovanou termosondu. Přídavné pouzdro SENSOR KIT umožňuje okamžité použití díky integrované výkonové elektronice s teplotním regulátorem.Tepelný spínač pro ochranu zařízení Integrovaná termosonda (SENSOR a SENSOR KIT)Ochrana topného tělesa (SENSOR a SENSOR KIT)Pasivní analogové rozhraní 4-20 mA (SENSOR)Tlakový redukční ventil (SENSOR KIT)"
+product_accessories: "Kabel prodlužovací 5 m (LE MINI SENSOR)Kabel prodlužovací 2 m (LE MINI SENSOR)Adaptér tryskový ø 21.3 mm (vnější) šroubovací (LE MINI)Příruba připojovací (ø 21.8 mm) ø 40 mm pro Labo 34/ LTryska reflektorová děrovaná (ø 213 mm)50 x 35 mm 75° zahnutáTryska reflektorová děrovaná (ø 213 mm)20 x 35 mm 75° zahnutáTryska tubulární (ø 213 mm)ø 12 mm 25 x 50 mm 90° zahnutáTryska tubulární (ø 213 mm)ø 10 mm 45 mm přímáTryska tubulární (ø 213 mm)ø 4 mm 45 mm přímáTryska přeplátovací (ø 213 mm)20 x 2 mm přímá 55 mm dlouháTryska přeplátovací (ø 213 mm)10 x 2 mm 15° vyhnutá 30° zahnutáTryska štěrbinová (ø 213 mm)40 x 5 mm plocháTryska štěrbinová (ø 213 mm)50 x 8 mm přímá LE MINI SENSOR KIT230 V / 800 WLE MINI SENSOR230 V / 400 WLE MINI SENSOR230 V / 800 WLE MINI230 V / 400 WLE MINI230 V / 800 W"
+product_similar: "LE MINI SENSOR KIT230 V / 800 WLE MINI SENSOR230 V / 400 WLE MINI SENSOR230 V / 800 WLE MINI230 V / 400 WLE MINI230 V / 800 W"
+---

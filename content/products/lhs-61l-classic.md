@@ -1,0 +1,14 @@
+---
+product_filename: "C:\Users\paide\Downloads\www.weldplast.cz\markdown\lhs-61l-classic.md"
+product_link: "file:/C:/Users/paide/Downloads/www.weldplast.cz/www.weldplast.cz/lhs-61l-classic"
+product_name: "LHS 61L CLASSIC3 x 400 V / 5 kW"
+product_id: "Obj. číslo:143.711"
+product_title: "LHS 61L CLASSIC | Weldplast"
+product_desc: "Druhá generace velkých Leister LHS ohřívačů vzduchu využívá stejné technologie jako řada menších ohřívačů Leister LHS 15/21. Tyto ohřívače jsou vhodné pro širokou škálu aplikací – smršťování tvrzení sušení pájení odstraňování otřepu atd.Nízké náklady na údržbu a dlouhá životnost díky patentované ochraně topných těles.Snadná výměna topných tělesStandardní ovládací rozhraní pro použití s existujícími řídícími jednotkamiŘada CLASSIC – pro stálou maximální tepelnou kapacitu nebo pro instalaci samostatné externí regulace výkonu."
+product_specs: "Značka konformity Značka schválení Třída ochrany I NapětíV~3 x 400 PříkonW5000 FrekvenceHz50 / 60 Max. teplota°C650 Hmotnostkg365 Max. teplota prostředí°C65 Max. vstupní teplota vzduchu°C65"
+product_downloads: "TECHNOLOGIE HORKÉHO VZDUCHU - katalog stáhnout  LHS 61 - montážní rozměry stáhnout  LHS 61 - produktový list stáhnout  LHS - manuál CZ stáhnout"
+product_href: "files/katalog-ph-web.pdf files/katalog-ph-web.pdf files/lhs61-montazni-rozmery-leister.pdf files/lhs61-montazni-rozmery-leister.pdf files/lhs-61-produktovy-list.pdf files/lhs-61-produktovy-list.pdf files/lhs15-21-41-61-manual-cz.pdf files/lhs15-21-41-61-manual-cz.pdf"
+product_desc_2: "Druhá generace velkých Leister LHS ohřívačů vzduchu využívá stejné technologie jako řada menších ohřívačů Leister LHS 15/21. Tyto ohřívače jsou vhodné pro širokou škálu aplikací – smršťování tvrzení sušení pájení odstraňování otřepu atd.Nízké náklady na údržbu a dlouhá životnost díky patentované ochraně topných těles.Snadná výměna topných tělesStandardní ovládací rozhraní pro použití s existujícími řídícími jednotkamiŘada CLASSIC – pro stálou maximální tepelnou kapacitu nebo pro instalaci samostatné externí regulace výkonu."
+product_accessories: "Trubka prodlužovací násuvná (ø 925 mm)500 x ø 60 mm pro LE 10 000Tryska kruhová (ø 92.5 mm)redukce na ø 50 mmPříruba připojovací (ø 161.5 mm) ø 192 mmDržák termosondy (LHS 60)Příruba připojovací (ø 92.5 mm) ø 120 mm LHS 61L CLASSIC3 x 400 V / 11 kWLHS 61L CLASSIC3 x 400 V / 8 kWLHS 61L CLASSIC3 x 400 V / 5 kWLHS 61L CLASSIC3 x 400V / 16kW"
+product_similar: "LHS 61L CLASSIC3 x 400 V / 11 kWLHS 61L CLASSIC3 x 400 V / 8 kWLHS 61L CLASSIC3 x 400 V / 5 kWLHS 61L CLASSIC3 x 400V / 16kW"
+---

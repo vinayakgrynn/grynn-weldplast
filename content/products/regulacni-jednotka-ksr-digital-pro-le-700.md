@@ -1,0 +1,14 @@
+---
+product_filename: "C:\Users\paide\Downloads\www.weldplast.cz\markdown\regulacni-jednotka-ksr-digital-pro-le-700.md"
+product_link: "file:/C:/Users/paide/Downloads/www.weldplast.cz/www.weldplast.cz/regulacni-jednotka-ksr-digital-pro-le-700"
+product_name: "Regulační jednotka KSR DIGITAL pro LE 700100-240 V"
+product_id: "Obj. číslo:110.338"
+product_title: "Regulační jednotka KSR DIGITAL pro LE 700 | Weldplast"
+product_desc: "Teplotní regulátor Leister KSR DIGITAL umožňuje velmi přesnou regulaci teploty vzduchu v ohřívačích vzduchu a horkovzdušných dmychadlech LEISTER.Přesnost více než 02 % jednotky stupnice při 25 °CMožnost přepínání mezi °C a °F přes klávesniciPoužívá zásuvku kompatabilní s modely KSRKompatabilní s teplotním čidlem typu K PT100Dvě nezávisle konfigurovatelné výstrahy s výstupy na dva pohyblivé reléové kontaktyMožnost integrace do ovládacího panelu s otvorem 67 x 67 mmKabel 2m bez zástrčky"
+product_specs: "Značka konformity Třída ochrany II NapětíV~100 - 240 Rozměry (D x Š x V)mm175 x 72 x 72 Hmotnostkg05"
+product_downloads: "CSS KSR - produktový list stáhnout  CSS KSR - manuál SK stáhnout  CSS KSR - manuál CZ stáhnout  TECHNOLOGIE HORKÉHO VZDUCHU - katalog stáhnout"
+product_href: "files/css-csseasy-ksr-produktovy-list-leister.pdf files/css-csseasy-ksr-produktovy-list-leister.pdf files/css-ksr-manual-sk.pdf files/css-ksr-manual-sk.pdf files/css-ksr-manual-cz.pdf files/css-ksr-manual-cz.pdf files/katalog-ph-web.pdf files/katalog-ph-web.pdf"
+product_desc_2: "Teplotní regulátor Leister KSR DIGITAL umožňuje velmi přesnou regulaci teploty vzduchu v ohřívačích vzduchu a horkovzdušných dmychadlech LEISTER.Přesnost více než 02 % jednotky stupnice při 25 °CMožnost přepínání mezi °C a °F přes klávesniciPoužívá zásuvku kompatabilní s modely KSRKompatabilní s teplotním čidlem typu K PT100Dvě nezávisle konfigurovatelné výstrahy s výstupy na dva pohyblivé reléové kontaktyMožnost integrace do ovládacího panelu s otvorem 67 x 67 mmKabel 2m bez zástrčky"
+product_accessories: "Multi patch Panel MPM 01Kabel řídicí 5 m (KSR-DSE)Kabel termosondy prodlužovací 10 mKabel termosondy prodlužovací 4 mKabel termosondy prodlužovací 2 mTermosonda s 1m kabelem a zástrčkou (CSS easy) Regulační jednotka CSSbez kabelu šroubové konektoryRegulační jednotka KSR DIGITAL100-240 V pro DSE/HT (900°C)Regulační jednotka DSE pro KSR DIGITAL3 x 380-440V 3 x 20A s potenciometremRegulační jednotka KSR DIGITAL pro HOTWIND S400-440 V / 4000-5400 WRegulační jednotka KSR DIGITAL pro HOTWIND S230 V / 3700 WRegulační jednotka KSR DIGITAL pro LE 700100-240 V"
+product_similar: "Regulační jednotka CSSbez kabelu šroubové konektoryRegulační jednotka KSR DIGITAL100-240 V pro DSE/HT (900°C)Regulační jednotka DSE pro KSR DIGITAL3 x 380-440V 3 x 20A s potenciometremRegulační jednotka KSR DIGITAL pro HOTWIND S400-440 V / 4000-5400 WRegulační jednotka KSR DIGITAL pro HOTWIND S230 V / 3700 WRegulační jednotka KSR DIGITAL pro LE 700100-240 V"
+---

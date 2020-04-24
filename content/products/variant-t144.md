@@ -1,0 +1,14 @@
+---
+product_filename: "C:\Users\paide\Downloads\www.weldplast.cz\markdown\variant-t144.md"
+product_link: "file:/C:/Users/paide/Downloads/www.weldplast.cz/www.weldplast.cz/sk/variant-t144"
+product_name: "VARIANT T1 OVERLAP20 mm 230 V / 3680 W"
+product_id: "Obj. číslo:141.892"
+product_title: "Variant T1 | Weldplast"
+product_desc: "Zvárací automat Leister VARIANT T1 OVERLAP sa vyznačuje výnimočnou rýchlosťou až 18 m / min. Vďaka kompaktnému štíhlemu dizajnu je zvárané miesto zo všetkých strán dVýnimočná max. Rýchlosť až 18 m / minZvárané miesto je dobre vidieť zo všetkých stránPevný a odolný prístroj vhodný pre profesionálne použitieZdvíhacie zariadenie umožňuje plynulé a presné umiestnenie prístrojaJednoduchá obsluha vďaka ovládaniu e-Drive"
+product_specs: "Značka konformity Značka schválenia Trieda ochrany I NapätieV~230 PríkonW3680 Max. teplota°C620 Rýchlosťm/min15 - 18 Rozsah prietoku vzduchu%40 - 100 Úroveň hlučnosti LpAdB70 Rozmerymm500 x 400 x 195 Hmotnosťkg22 (bez 15 kabelu) Druh certifikácieCCA Šírka zvarumm20"
+product_downloads: "TECHNICKÉ TKANINY - katalog stiahnuť  VARIANT T1 - manuál SK stiahnuť  VARIANT T1 - manuál CZ stiahnuť  VARIANT T1 (overlap) - produktový list stiahnuť"
+product_href: "../files/katalog-technicke-tkaniny-2019-web.pdf ../files/katalog-technicke-tkaniny-2019-web.pdf ../files/varimat-v2-manual-sk.pdf ../files/varimat-v2-manual-sk.pdf ../files/variant-t1-manual-cz.pdf ../files/variant-t1-manual-cz.pdf ../files/variant-t1-overlap-prod-list-cz.pdf ../files/variant-t1-overlap-prod-list-cz.pdf"
+product_desc_2: "Zvárací automat Leister VARIANT T1 OVERLAP sa vyznačuje výnimočnou rýchlosťou až 18 m / min. Vďaka kompaktnému štíhlemu dizajnu je zvárané miesto zo všetkých strán dVýnimočná max. Rýchlosť až 18 m / minZvárané miesto je dobre vidieť zo všetkých stránPevný a odolný prístroj vhodný pre profesionálne použitieZdvíhacie zariadenie umožňuje plynulé a presné umiestnenie prístrojaJednoduchá obsluha vďaka ovládaniu e-Drive"
+product_accessories: "Kit na prestavbu z preplátovania do 25mmVandalsystém VARIANT T1 TAPE50 mm 400 VVARIANT T1 TAPE400 V páska 25mm Anti-vandalVARIANT T1 TAPE50 mm 230 VVARIANT T1 TAPE25 mm 230 V Anti-vandalVARIANT T1 OVERLAP20 mm 400 V / 5700 W 16A-5PVARIANT T1 OVERLAP40 mm 400 V / 5700 W 16A-5PVARIANT T1 OVERLAP20 mm 230 V / 3680 WVARIANT T1 OVERLAP40 mm 230 V / 3680 W"
+product_similar: "VARIANT T1 TAPE50 mm 400 VVARIANT T1 TAPE400 V páska 25mm Anti-vandalVARIANT T1 TAPE50 mm 230 VVARIANT T1 TAPE25 mm 230 V Anti-vandalVARIANT T1 OVERLAP20 mm 400 V / 5700 W 16A-5PVARIANT T1 OVERLAP40 mm 400 V / 5700 W 16A-5PVARIANT T1 OVERLAP20 mm 230 V / 3680 WVARIANT T1 OVERLAP40 mm 230 V / 3680 W"
+---
